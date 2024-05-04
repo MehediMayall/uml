@@ -1,0 +1,15 @@
+/Users/mehedimayall/PROJECTS/uml/Aggregations/bin/Debug/net9.0/Aggregations
+/Users/mehedimayall/PROJECTS/uml/Aggregations/bin/Debug/net9.0/Aggregations.deps.json
+/Users/mehedimayall/PROJECTS/uml/Aggregations/bin/Debug/net9.0/Aggregations.runtimeconfig.json
+/Users/mehedimayall/PROJECTS/uml/Aggregations/bin/Debug/net9.0/Aggregations.dll
+/Users/mehedimayall/PROJECTS/uml/Aggregations/bin/Debug/net9.0/Aggregations.pdb
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/Aggregations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/Aggregations.AssemblyInfoInputs.cache
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/Aggregations.AssemblyInfo.cs
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/Aggregations.csproj.CoreCompileInputs.cache
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/Aggregations.sourcelink.json
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/Aggregations.dll
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/refint/Aggregations.dll
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/Aggregations.pdb
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/Aggregations.genruntimeconfig.cache
+/Users/mehedimayall/PROJECTS/uml/Aggregations/obj/Debug/net9.0/ref/Aggregations.dll
