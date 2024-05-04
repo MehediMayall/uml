@@ -9,6 +9,17 @@ A manager has a swipe card to enter the company premises. We can see the relatio
 
 ```mermaid
 
+classDiagram
+    class Manager{
+        string Name
+        login(SwipeCard swipeCard)
+    }
+    
+    class SwipeCard{
+        string CardNo
+        swipe(Manager manager)
+    }
 
+    Manager-->SwipeCard
 
 ```
