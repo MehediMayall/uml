@@ -1,0 +1,15 @@
+/Users/mehedimayall/PROJECTS/uml/Associations/bin/Debug/net9.0/Associations
+/Users/mehedimayall/PROJECTS/uml/Associations/bin/Debug/net9.0/Associations.deps.json
+/Users/mehedimayall/PROJECTS/uml/Associations/bin/Debug/net9.0/Associations.runtimeconfig.json
+/Users/mehedimayall/PROJECTS/uml/Associations/bin/Debug/net9.0/Associations.dll
+/Users/mehedimayall/PROJECTS/uml/Associations/bin/Debug/net9.0/Associations.pdb
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/Associations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/Associations.AssemblyInfoInputs.cache
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/Associations.AssemblyInfo.cs
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/Associations.csproj.CoreCompileInputs.cache
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/Associations.sourcelink.json
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/Associations.dll
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/refint/Associations.dll
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/Associations.pdb
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/Associations.genruntimeconfig.cache
+/Users/mehedimayall/PROJECTS/uml/Associations/obj/Debug/net9.0/ref/Associations.dll
