@@ -14,4 +14,14 @@ A dependency is a directed relationship.
 
 
 ```mermaid
+classDiagram
+    class Email{
+        sendMessage()
+    }
+    class EmailService{
+        Email email = new Email()
+        sendMessage()
+    }
+
+    EmailService..>Email
 ```
