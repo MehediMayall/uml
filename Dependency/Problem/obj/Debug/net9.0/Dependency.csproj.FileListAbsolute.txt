@@ -1,0 +1,15 @@
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/bin/Debug/net9.0/Dependency
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/bin/Debug/net9.0/Dependency.deps.json
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/bin/Debug/net9.0/Dependency.runtimeconfig.json
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/bin/Debug/net9.0/Dependency.dll
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/bin/Debug/net9.0/Dependency.pdb
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/Dependency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/Dependency.AssemblyInfoInputs.cache
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/Dependency.AssemblyInfo.cs
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/Dependency.csproj.CoreCompileInputs.cache
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/Dependency.sourcelink.json
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/Dependency.dll
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/refint/Dependency.dll
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/Dependency.pdb
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/Dependency.genruntimeconfig.cache
+/Users/mehedimayall/PROJECTS/uml/Dependency/Problem/obj/Debug/net9.0/ref/Dependency.dll

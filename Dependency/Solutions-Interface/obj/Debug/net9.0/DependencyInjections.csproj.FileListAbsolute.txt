@@ -1,0 +1,15 @@
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/bin/Debug/net9.0/DependencyInjections
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/bin/Debug/net9.0/DependencyInjections.deps.json
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/bin/Debug/net9.0/DependencyInjections.runtimeconfig.json
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/bin/Debug/net9.0/DependencyInjections.dll
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/bin/Debug/net9.0/DependencyInjections.pdb
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/DependencyInjections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/DependencyInjections.AssemblyInfoInputs.cache
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/DependencyInjections.AssemblyInfo.cs
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/DependencyInjections.csproj.CoreCompileInputs.cache
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/DependencyInjections.sourcelink.json
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/DependencyInjections.dll
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/refint/DependencyInjections.dll
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/DependencyInjections.pdb
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/DependencyInjections.genruntimeconfig.cache
+/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/obj/Debug/net9.0/ref/DependencyInjections.dll

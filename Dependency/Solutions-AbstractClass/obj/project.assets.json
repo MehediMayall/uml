@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/DependencyInjections/DependencyInjections.csproj",
+      "projectUniqueName": "/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions-AbstractClass/DependencyInjections.csproj",
       "projectName": "DependencyInjections",
-      "projectPath": "/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/DependencyInjections/DependencyInjections.csproj",
+      "projectPath": "/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions-AbstractClass/DependencyInjections.csproj",
       "packagesPath": "/Users/mehedimayall/.nuget/packages/",
-      "outputPath": "/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions/DependencyInjections/obj/",
+      "outputPath": "/Users/mehedimayall/PROJECTS/uml/Dependency/Solutions-AbstractClass/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mehedimayall/.nuget/NuGet/NuGet.Config"
