@@ -5,6 +5,9 @@ sequenceDiagram
     participant BankServer  
     participant BankAccount
 
+    activate ATM
+    activate BankServer
+
     CardHolder->>+ATM: Insert Card
     ATM->>+BankServer: Verify Card
     alt if valid
@@ -32,6 +35,7 @@ sequenceDiagram
     ATM->>BankServer: Start Transaction
     BankServer->>BankAccount: Sufficient Fund?
 
+    activate BankAccount
     alt if funds are sufficient
         BankAccount-->>BankServer: Funds OK
         BankServer->>BankAccount: Withdraw Amount
@@ -43,8 +47,10 @@ sequenceDiagram
         BankAccount-->>BankServer: Insufficient Funds
         BankServer-->>ATM: Transaction Failed
     end
+    deactivate BankAccount
+    deactivate BankServer
 
     ATM->>CardHolder: Eject Card
-    
+    deactivate ATM
 
 ```
