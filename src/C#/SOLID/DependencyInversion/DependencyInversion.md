@@ -2,8 +2,12 @@
 The Dependency Inversion Principle (DIP) emphasizes decoupling and abstraction. 
 
 The principle consists of two core concepts:
-    - high-level modules should not depend on low-level modules
-    - both should depend on abstractions.
+
+    - High-level modules should not depend on low-level modules. Both should depend on abstractions.
+    
+    - Abstractions should not depend on details. Details should be depend upon abstractions
+
+
 This inverted dependency relationship promotes flexbility, testability, and maintainability.
 
 ##### Why is the Dependency Inversion Principle Important?
@@ -64,3 +68,6 @@ classDiagram
     IEngine..>ElectricEngine: Flow of dependencies
 
 ```
+
+#### Dependency Injecction is just a vehicle to achieve the inversion
+
