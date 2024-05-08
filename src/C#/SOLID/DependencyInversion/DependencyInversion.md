@@ -40,8 +40,8 @@ classDiagram
 
     class Car{
         string name
-        CombustionEngine engine
-        Car(CombustionEngine engine)
+        IEngine engine
+        Car(IEngine engine)
         start()
     }
 
