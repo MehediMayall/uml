@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DependencyInversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81290aaa37b034e67b3542bd2b09076cb09152be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35341dac0f95631347100b086cd897c0e53f81f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("DependencyInversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DependencyInversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
