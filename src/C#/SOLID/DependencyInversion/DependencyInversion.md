@@ -6,6 +6,11 @@ The principle consists of two core concepts:
     - both should depend on abstractions.
 This inverted dependency relationship promotes flexbility, testability, and maintainability.
 
+##### Why is the Dependency Inversion Principle Important?
+Dependency Inversion Principle prevent us depending upon modules that often change. Concrete classes change frequently, while abstractions and interfaces change much less. 
+
+DIP is key to achieving loosely coupled and maintainable systems alongside concepts such as Polymorphism or Dependency Injection.
+
 
 #### Without dependency inversion
 
